@@ -15,7 +15,7 @@ I've also made few efforts to create few lab-sessions for starters.  Readers may
 
 ## To Go Back To My User Site
 
-Click [here]({{site.url}}).
+Click [here]({{ site.url }}).
 
 
 Hope you enjoy learning Py-3 !!  :)
